@@ -8,7 +8,8 @@ I have a strong foundation in programming and a keen interest in solving complex
 My academic journey has equipped me with the knowledge programming languages and software development tools.
 
 **Skills**
-- **Programming Languages**: C++
+- **Programming Languages**:
+- ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
 
 
 
