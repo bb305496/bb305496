@@ -29,7 +29,6 @@ My academic journey has equipped me with the knowledge programming languages and
 **Projects**
 
 1. [Simple use of the SFML library](https://github.com/bb305496/Pogoda)
-Simple use of the SFML library with sound effects
 
 <!--
 **bb305496/bb305496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
