@@ -1,7 +1,7 @@
 **Hello, I'm Bartek Bielak!** 👋
 
 I am a second-year Computer Science student at the Silesian University of Technology.
-I enjoy watching movies, practicing any type of sport (In 2017, I achieved the title of Vice Champion of Poland in Traditional Karate ![Karate Icon](https://img.icons8.com/?size=100&id=b8VPZLtx58b5&format=png&color=000000))
+I enjoy watching movies, practicing any type of sport (In 2017, I achieved the title of Vice Champion of Poland in Traditional Karate ![Karate Icon](https://img.icons8.com/?size=10&id=b8VPZLtx58b5&format=png&color=000000))
 
 **About Me**
 
