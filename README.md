@@ -28,6 +28,9 @@ My academic journey has equipped me with the knowledge programming languages and
 
 **Projects**
 
+
+
+**Mini projects**
 1. [Simple use of the SFML library](https://github.com/bb305496/Pogoda)
 
 
