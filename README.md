@@ -10,7 +10,12 @@ My academic journey has equipped me with the knowledge programming languages and
 **Skills**
 - **Programming Languages**:
 
-  ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
+  ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+
+- **Web Development**:
+
+  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) HTML
+  ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) CSS
 
 
 
