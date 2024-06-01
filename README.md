@@ -19,7 +19,7 @@ My academic journey has equipped me with the knowledge programming languages and
 
 - **Databases**:
 
-  ![MySQL Icon](https://img.icons8.com/?size=50&id=QSjnrUKYMnxO&format=png&color=000000)
+  ![MySQL Icon](https://img.icons8.com/?size=70&id=QSjnrUKYMnxO&format=png&color=000000)
 
 
 
