@@ -17,7 +17,7 @@ My academic journey has equipped me with the knowledge programming languages and
   ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
   ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
 
-- **Databases
+- **Databases**:
   ![MySQL Icon](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)
 
 
