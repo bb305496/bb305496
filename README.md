@@ -30,7 +30,7 @@ My academic journey has equipped me with the knowledge programming languages and
 
 **Projects**
 
-1.[SFML first RPG demo game](https://github.com/polsl-aei-pk4/a448ac97-gr42-repo/tree/main/Projekt)
+1. [SFML first RPG demo game](https://github.com/polsl-aei-pk4/a448ac97-gr42-repo/tree/main/Projekt)
 
 
 **Mini projects**
