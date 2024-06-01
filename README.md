@@ -32,9 +32,11 @@ My academic journey has equipped me with the knowledge programming languages and
 
 
 
+
 **Contact me**
 
-![Email Icon](https://img.icons8.com/?size=100&id=X0mEIh0RyDdL&format=png&color=000000) Email: your.email@example.com
+![Email Icon](https://img.icons8.com/?size=100&id=X0mEIh0RyDdL&format=png&color=000000) 
+barb305496@gmail.com
 
 <!--
 **bb305496/bb305496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
