@@ -1,4 +1,4 @@
-##Hello, I'm Bartek Bielak! 👋
+Hello, I'm Bartek Bielak! 👋
 I am a second-year Computer Science student at the Silesian University of Technology.
 
 <!--
