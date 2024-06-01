@@ -33,6 +33,7 @@ My academic journey has equipped me with the knowledge programming languages and
 
 **Contact me**
 
+![GitHub Icon](https://img.icons8.com/?size=60&id=D5XsEXNbhkMI&format=png&color=000000)
 [GitHub](https://github.com/bb305496)
 ![Email Icon](https://img.icons8.com/?size=15&id=X0mEIh0RyDdL&format=png&color=000000) 
 barb305496@gmail.com
