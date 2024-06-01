@@ -1,7 +1,9 @@
 **Hello, I'm Bartek Bielak!** 👋
+
 I am a second-year Computer Science student at the Silesian University of Technology.
 
 **About Me**
+
 I have a strong foundation in programming and a keen interest in solving complex problems. 
 My academic journey has equipped me with the knowledge programming languages and software development tools.
 
