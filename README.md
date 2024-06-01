@@ -26,12 +26,12 @@ My academic journey has equipped me with the knowledge programming languages and
 - **Version Control**:
 
   ![Git Icon](https://img.icons8.com/?size=60&id=20906&format=png&color=000000)
-  🔭 I’m currently working on ![GitHub Icon](https://img.icons8.com/?size=60&id=D5XsEXNbhkMI&format=png&color=000000)
+  ![GitHub Icon](https://img.icons8.com/?size=60&id=D5XsEXNbhkMI&format=png&color=000000)
 
 **Projects**
 
 1. [SFML first RPG demo game](https://github.com/polsl-aei-pk4/a448ac97-gr42-repo/tree/main/Projekt)
-2. [NeuralNet](https://github.com/bb305496/NeuraltNet)
+2.  🔭 I’m currently working on [NeuralNet](https://github.com/bb305496/NeuraltNet)
 
 
 **Mini projects**
