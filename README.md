@@ -31,11 +31,9 @@ My academic journey has equipped me with the knowledge programming languages and
 1. [Simple use of the SFML library](https://github.com/bb305496/Pogoda)
 
 
-
-
 **Contact me**
 
-![Email Icon](https://img.icons8.com/?size=10&id=X0mEIh0RyDdL&format=png&color=000000) 
+![Email Icon](https://img.icons8.com/?size=20&id=X0mEIh0RyDdL&format=png&color=000000) 
 barb305496@gmail.com
 
 <!--
