@@ -1,4 +1,5 @@
-## Hi there 👋
+Hello, I'm Bartek Bielak! 👋
+I am a second-year Computer Science student at the Silesian University of Technology.
 
 <!--
 **bb305496/bb305496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
