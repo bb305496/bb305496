@@ -24,7 +24,7 @@ My academic journey has equipped me with the knowledge programming languages and
 - **Version Control**:
 
   ![Git Icon](https://img.icons8.com/color/48/000000/git.png)
-  ![GitHub Icon](https://img.icons8.com/ios-glyphs/30/000000/github.png)
+  ![GitHub Icon](https://img.icons8.com/?size=100&id=v551nqGeHhGn&format=png&color=000000)
 
 
 
