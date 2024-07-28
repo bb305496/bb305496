@@ -30,7 +30,8 @@ My academic journey has equipped me with the knowledge programming languages and
 **Projects**
 
 1. [SFML first RPG demo game](https://github.com/bb305496/SFML_Game_Demo)
-2.  🔭 I’m currently working on [NeuralNet](https://github.com/bb305496/NeuraltNet)
+2.  [NeuralNet](https://github.com/bb305496/NeuraltNet)
+3.  🔭 I’m currently working on [Platform Game](https://github.com/bb305496/Until_Die)
 
 
 **Mini projects**
