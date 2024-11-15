@@ -1,6 +1,6 @@
 **Hello, I'm Bartek Bielak!** 👋
 
-I am a second-year Computer Science student at the Silesian University of Technology.
+I am a third-year Computer Science student at the Silesian University of Technology.
 I enjoy watching movies and practicing every type of sport.
 
 **About Me**
