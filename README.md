@@ -25,7 +25,8 @@ My academic journey has equipped me with the knowledge programming languages and
 
 - **Databases**:
 
-  ![MySQL Icon](https://img.icons8.com/?size=60&id=QSjnrUKYMnxO&format=png&color=000000)
+  ![SQL Icon](https://img.icons8.com/?size=60&id=QSjnrUKYMnxO&format=png&color=000000)
+  ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
 
 - **Version Control**:
 
