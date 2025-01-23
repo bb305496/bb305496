@@ -12,7 +12,8 @@ My academic journey has equipped me with the knowledge programming languages and
 - **Programming Languages**:
 
   ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-  ![Java Icon](https://github.com/?size=60user-attachments/assets/aba0ea37-e9fd-4d94-b936-244dc7aebd30)
+  ![Java Icon](https://github.com/user-attachments/assets/a603c285-6098-4a6c-b7d5-63aed304efed)
+
 
 
 - **Web Development**:
