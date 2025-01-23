@@ -12,7 +12,7 @@ My academic journey has equipped me with the knowledge programming languages and
 - **Programming Languages**:
 
   ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-  ![Java Icon](https://github.com/user-attachments/assets/bb78fcb8-37d2-4af1-bb9e-29a0a726a854)
+  ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 
 
