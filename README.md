@@ -12,6 +12,8 @@ My academic journey has equipped me with the knowledge programming languages and
 - **Programming Languages**:
 
   ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+  ![Java Icon](https://github.com/user-attachments/assets/aba0ea37-e9fd-4d94-b936-244dc7aebd30)
+
 
 - **Web Development**:
 
@@ -31,7 +33,6 @@ My academic journey has equipped me with the knowledge programming languages and
 
 1. [SFML first RPG demo game](https://github.com/bb305496/SFML_Game_Demo)
 2.  [NeuralNet](https://github.com/bb305496/NeuraltNet)
-3.  🔭 I’m currently working on [Platform Game](https://github.com/bb305496/Until_Die)
 
 
 **Mini projects**
