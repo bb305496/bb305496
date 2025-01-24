@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e4b59e80-9c3c-4cb4-8920-0ade776be9a0)**Hello, I'm Bartek Bielak!** 👋
+**Hello, I'm Bartek Bielak!** 👋
 
 I am a third-year Computer Science student at the Silesian University of Technology.
 I enjoy watching movies and practicing every type of sport.
