@@ -1,4 +1,4 @@
-**Hello, I'm Bartek Bielak!** 👋
+![image](https://github.com/user-attachments/assets/e4b59e80-9c3c-4cb4-8920-0ade776be9a0)**Hello, I'm Bartek Bielak!** 👋
 
 I am a third-year Computer Science student at the Silesian University of Technology.
 I enjoy watching movies and practicing every type of sport.
@@ -37,7 +37,8 @@ My academic journey has equipped me with the knowledge programming languages and
 
 1. [SFML first RPG demo game](https://github.com/bb305496/SFML_Game_Demo)
 2.  [NeuralNet](https://github.com/bb305496/NeuraltNet)
-3.  ![Hammer Icon](https://icons8.com/icon/wqIHGl1NAS6e/hammer)Currently working on [CashCardApplication](https://github.com/bb305496/CashCardApplication)
+3.  ![Hammer Icon](https://github.com/user-attachments/assets/dae9bd78-9283-46ac-ab79-edc0f37d5e9b)
+Currently working on [CashCardApplication](https://github.com/bb305496/CashCardApplication)
 
 
 **Mini projects**
