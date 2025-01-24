@@ -37,7 +37,8 @@ My academic journey has equipped me with the knowledge programming languages and
 
 1. [SFML first RPG demo game](https://github.com/bb305496/SFML_Game_Demo)
 2.  [NeuralNet](https://github.com/bb305496/NeuraltNet)
-3.  [Working](https://github.com/user-attachments/assets/278f8518-daab-4bfd-8bda-4bc67d626b9e)Currently working on [CashCardApplication](https://github.com/bb305496/CashCardApplication)
+3.  [Working](![image](https://github.com/user-attachments/assets/88c7d891-79dc-4cc9-ba08-d284121a6720)
+)Currently working on [CashCardApplication](https://github.com/bb305496/CashCardApplication)
 
 
 **Mini projects**
