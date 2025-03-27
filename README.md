@@ -13,6 +13,7 @@ My academic journey has equipped me with the knowledge programming languages and
 
   ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
   ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+  ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 
 
 
