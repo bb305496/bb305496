@@ -26,7 +26,7 @@ My academic journey has equipped me with the knowledge programming languages and
 
 - **Databases**:
 
-  ![PostgreSQL Icon](https://img.icons8.com/color/48/postgresql.png)
+  ![PostgreSQL Icon]([https://img.icons8.com/color/48/postgresql.png](https://img.icons8.com/?size=100&id=38561&format=png&color=000000))
   ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
   ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
 
