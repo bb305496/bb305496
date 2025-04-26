@@ -17,8 +17,6 @@ My academic journey has equipped me with the knowledge programming languages and
 
 
 
-
-
 - **Web Development**:
 
   ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
@@ -26,35 +24,7 @@ My academic journey has equipped me with the knowledge programming languages and
 
 - **Databases**:
 
-  ![PostgreSQL Icon](**Hello, I'm Bartek Bielak!** 👋
-
-I am a third-year Computer Science student at the Silesian University of Technology.
-I enjoy watching movies and practicing every type of sport.
-
-**About Me**
-
-I have a strong foundation in programming and a keen interest in solving complex problems. 
-My academic journey has equipped me with the knowledge programming languages and software development tools.
-
-**Skills**
-- **Programming Languages**:
-
-  ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-  ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-  ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-
-
-
-
-
-- **Web Development**:
-
-  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
-  ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
-
-- **Databases**:
-
-  ![image](https://github.com/user-attachments/assets/36612077-effd-4621-b518-48a97cb1ee63)
+  ![PostgreSQL Icon](https://img.icons8.com/color/48/000000/postgresql.png)
   ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
   ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
 
