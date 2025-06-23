@@ -38,7 +38,7 @@ My academic journey has equipped me with the knowledge programming languages and
 
 1. [SFML first RPG demo game](https://github.com/bb305496/SFML_Game_Demo)
 2. [Weather Dashboard](https://github.com/bb305496/CSV_Weather_Dashboard)
-3.  🔭 I’m currently working on ... [RPG_GAME](https://github.com/bb305496/GK_RPG_GAME)
+3. [RPG_GAME](https://github.com/bb305496/GK_RPG_GAME)
 
 
 **Mini projects**
