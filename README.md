@@ -14,20 +14,38 @@ My academic journey has equipped me with the knowledge programming languages and
   ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
   ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
   ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-  ![C# Icon](https://img.icons8.com/color/48/000000/python--v1.png)
-
+  ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 
 
 - **Web Development**:
 
   ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
   ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+  ![React Icon](https://img.icons8.com/color/48/000000/react-native.png)
+  ![Django Icon](https://img.icons8.com/color/48/000000/django.png)
+  ![Postman](https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png&color=000000)
+
+- **Data Science / ML Libraries**:
+
+  ![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
+  ![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
+  ![Pandas](https://img.icons8.com/?size=48&id=jH4BpkMnRrU5&format=png&color=000000)
+  
 
 - **Databases**:
 
   ![PostgreSQL Icon](https://img.icons8.com/?size=48&id=38561&format=png)
   ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
   ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
+
+- **IDE**:
+
+  ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)
+  ![WebStorm](https://img.icons8.com/color/48/000000/webstorm.png)
+  ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
+  ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png)
+  
 
 - **Version Control**:
 
@@ -36,9 +54,10 @@ My academic journey has equipped me with the knowledge programming languages and
 
 **Projects**
 
-1. [SFML first RPG demo game](https://github.com/bb305496/SFML_Game_Demo)
+1. [RaceStat](https://github.com/bb305496/RaceStat)
 2. [Weather Dashboard](https://github.com/bb305496/CSV_Weather_Dashboard)
-3. [RPG_GAME](https://github.com/bb305496/GK_RPG_GAME)
+3. [NarutoAPI](https://github.com/bb305496/narutoapp)
+4. [RPG_GAME](https://github.com/bb305496/GK_RPG_GAME)
 
 
 **Mini projects**
