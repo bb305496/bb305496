@@ -1,51 +1,35 @@
 **Hello, I'm Bartek Bielak!** 👋
+Software Developer specializing in the modern Angular ecosystem and Full-Stack development. Currently building enterprise-level solutions in an international, Agile environment at Robert Bosch, while passionately exploring the bleeding edge of web technologies.
 
-I am a third-year Computer Science student at the Silesian University of Technology.
-I enjoy watching movies and practicing every type of sport.
+Current Focus & Expertise:
+Advanced Angular (v15-v21): Building high-performance, Zoneless applications using Signals, OnPush, and Deferrable Views.
 
-**About Me**
+State Management: NgRx (Store, Effects) integrated with RxJS and Signal-based selectors.
 
-I have a strong foundation in programming and a keen interest in solving complex problems. 
-My academic journey has equipped me with the knowledge programming languages and software development tools.
+Backend & DevOps: Kotlin, Spring Boot, Docker, and GitHub Actions (CI/CD).
+
+AI Integration: Connecting frontend interfaces with LLMs (Google Gemini AI) for real-time data analysis.
+
+I focus on Core Web Vitals, scalable architectures, and delivering seamless user experiences from the database to the browser.
 
 **Skills**
-- **Programming Languages**:
-
-  ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-  ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-  ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-  ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
-
-
 - **Web Development**:
 
-  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
-  ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-  ![React Icon](https://img.icons8.com/color/48/000000/react-native.png)
-  ![Django Icon](https://img.icons8.com/color/48/000000/django.png)
-  ![Postman](https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png&color=000000)
-
-- **Data Science / ML Libraries**:
-
-  ![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
-  ![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
-  ![Pandas](https://img.icons8.com/?size=48&id=jH4BpkMnRrU5&format=png&color=000000)
-  
+![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular Icon" width="48" height="48">
+<img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="NgRx Icon" width="48" height="48">
+<img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" alt="RxJS Icon" width="48" height="48">
+![React Icon](https://img.icons8.com/color/48/000000/react-native.png)
+![Redux Icon](https://img.icons8.com/color/48/000000/redux.png)
+![Postman](https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png&color=000000)
 
 - **Databases**:
 
   ![PostgreSQL Icon](https://img.icons8.com/?size=48&id=38561&format=png)
   ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
   ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
-
-- **IDE**:
-
-  ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)
-  ![WebStorm](https://img.icons8.com/color/48/000000/webstorm.png)
-  ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
-  ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png)
-  
 
 - **Version Control**:
 
@@ -54,9 +38,9 @@ My academic journey has equipped me with the knowledge programming languages and
 
 **Projects**
 
-1. [RaceStat](https://github.com/bb305496/RaceStat)
-2. [Weather Dashboard](https://github.com/bb305496/CSV_Weather_Dashboard)
-3. [NarutoAPI](https://github.com/bb305496/narutoapp)
+1. [HireMeAI](https://github.com/bb305496/HireMeAI)
+2. [RaceStat](https://github.com/bb305496/RaceStat)
+3. [Weather Dashboard](https://github.com/bb305496/CSV_Weather_Dashboard)
 4. [RPG_GAME](https://github.com/bb305496/GK_RPG_GAME)
 
 
@@ -74,18 +58,3 @@ barb305496@gmail.com
 
   ![Link Icon](https://img.icons8.com/?size=15&id=13930&format=png&color=000000)
 [Linkedin](https://www.linkedin.com/in/bartłomiej-bielak-465408311/)
-
-<!--
-**bb305496/bb305496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
