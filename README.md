@@ -1,16 +1,12 @@
 **Hello, I'm Bartek Bielak!** 👋
+
 Software Developer specializing in the modern Angular ecosystem and Full-Stack development. Currently building enterprise-level solutions in an international, Agile environment at Robert Bosch, while passionately exploring the bleeding edge of web technologies.
 
 Current Focus & Expertise:
+
 Advanced Angular (v15-v21): Building high-performance, Zoneless applications using Signals, OnPush, and Deferrable Views.
 
 State Management: NgRx (Store, Effects) integrated with RxJS and Signal-based selectors.
-
-Backend & DevOps: Kotlin, Spring Boot, Docker, and GitHub Actions (CI/CD).
-
-AI Integration: Connecting frontend interfaces with LLMs (Google Gemini AI) for real-time data analysis.
-
-I focus on Core Web Vitals, scalable architectures, and delivering seamless user experiences from the database to the browser.
 
 **Skills**
 - **Web Development**:
