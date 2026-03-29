@@ -11,15 +11,15 @@ State Management: NgRx (Store, Effects) integrated with RxJS and Signal-based se
 **Skills**
 - **Web Development**:
 
-![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular Icon" width="48" height="48">
-<img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="NgRx Icon" width="48" height="48">
-<img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" alt="RxJS Icon" width="48" height="48">
-![React Icon](https://img.icons8.com/color/48/000000/react-native.png)
-![Redux Icon](https://img.icons8.com/color/48/000000/redux.png)
-![Postman](https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png&color=000000)
+  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
+  ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+  ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular Icon" width="48" height="48">
+  <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="NgRx Icon" width="48" height="48">
+  <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" alt="RxJS Icon" width="48" height="48">
+  ![React Icon](https://img.icons8.com/color/48/000000/react-native.png)
+  ![Redux Icon](https://img.icons8.com/color/48/000000/redux.png)
+  ![Postman](https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png&color=000000)
 
 - **Databases**:
 
